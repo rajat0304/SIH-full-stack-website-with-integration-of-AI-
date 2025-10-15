@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Civic Connect - Report. Resolve. Revive Your City.</title>
+    <meta name="description" content="Empower your community with Civic Connect. Report civic issues, track progress, and collaborate with local government to build better cities together." />
+    <meta name="author" content="Civic Connect" />
+
+    <meta property="og:title" content="Civic Connect - Community-Driven Civic Engagement" />
+    <meta property="og:description" content="Report civic issues, track their resolution, and engage with your community to create positive change in your city." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content=" link of image 01    " />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@rajat tripathi" />
+    <meta name="twitter:image" content="      " />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
